@@ -2,7 +2,6 @@
 
 I am a Linux engineer by day and a Coder by night.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxbytes&layout=compact)](https://github.com/linuxbytes/github-readme-stats)
 <!--
 **linuxbytes/linuxbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
