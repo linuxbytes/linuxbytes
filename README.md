@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Linux engineer by day and a Coder by night.
+
 <!--
 **linuxbytes/linuxbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
